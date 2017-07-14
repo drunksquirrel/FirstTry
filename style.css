@@ -1,0 +1,14 @@
+.product{
+  background-color: #f5a03c;
+}
+.service{
+  background-color: #757171;
+}
+.title-product-section{
+  text-align: center;
+  background-color: #f5a03c;
+}
+.title-service-section{
+  text-align: center;
+  background-color: #757171;
+}

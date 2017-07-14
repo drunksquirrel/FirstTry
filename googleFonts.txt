@@ -1,0 +1,10 @@
+<link href="https://fonts.googleapis.com/css?family=Copse|Dancing+Script|Lobster+Two|Monoton|Niconne|Pacifico|Satisfy" rel="stylesheet">
+
+
+font-family: 'Pacifico', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster Two', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Niconne', cursive;
+font-family: 'Copse', serif;
